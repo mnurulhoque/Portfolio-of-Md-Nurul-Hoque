@@ -55,4 +55,4 @@ Libraries & packages: pandas, geopandas, pygeos, arcgis, shapely, folium, mapcla
 2. Created one interactive web map
 ![static map3](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/736c4625-79fb-4c1d-90c3-3945de4dd8ed)
 
-You can also explore [the interactive web map as its own web page here](nj_childcare_centers.html)
+You can also explore [the interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
