@@ -1,4 +1,4 @@
-# Portfolio of Md Nurul Hoque
+
 # [Project 1: Analytical Visualization of Integrating Renewable Energy into Energy Consumption Patterns in the Middle Atlantic Region of the US](https://mnurulhoque.github.io/integrating-renewable-energy-into-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-US/) 
 
 ## Project Overview
