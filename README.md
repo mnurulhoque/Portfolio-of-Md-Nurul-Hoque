@@ -1,15 +1,12 @@
 # Portfolio of Md Nurul Hoque
-
-# Project 1: Analytical visualization of integrating renewable energy into energy consumption patterns in the Middle Atlantic region of the US
+# [Project 1: Analytical visualization of integrating renewable energy into energy consumption patterns in the Middle Atlantic region of the US](https://mnurulhoque.github.io/integrating-renewable-energy-into-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-US/) 
 
 # Project Overview
 This project was conducted as the final project required by the 'Data Visualization' course at E.J. Bloustein School of Planning and Public Policy, Rutgers University. Graphical visualization techniques have been employed to assess the impact of integrating renewable energy into energy consumption patterns in the Middle Atlantic region of the United States, particularly emphasizing New Jersey, New York, and Pennsylvania. Utilizing data from 2001 to 2022, these visualizations offered insights into the evolving relationship between renewable energy adoption and energy consumption trends within this region. 
 
 # Resources & Tools Used
 Core programming language: R version 4.3.1
-
 Development environment: RStudio
-
 Libraries & packages: ggplot2, dplyr, viridis, hrbrthemes, GGally, plm, lmtest, car, patchwork, usmap, sf, raster, tmap, ggspatial, rnaturalearth, ggmap, leaflet, scales, cartography, sp, webshot2, magick, gganimate, corrplot
 
 # Data Cleaning
@@ -25,7 +22,6 @@ In the initial data preparation phase, the following data cleaning tasks were pe
 # Data Analysis
 1. Used Correlogram and correlation matrix as our main graph to prove the hypothesis that renewable energy generation does have an impact on the total energy consumption in the selected states.
 2. Used Scatter Plot, Dual Y-axis Plot, and Dot Chart as our alternate graphs to support our findings in the main graph. 
-
 ![Scatter Plot for impact analysis](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/5f956d76-9ca0-4c25-b926-540ec911d969)
 
 # Conclusions
