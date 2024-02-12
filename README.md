@@ -17,9 +17,9 @@ In the initial data preparation phase, the following data cleaning tasks were pe
 2. Handling missing values and formatting
 
 ## Exploratory Data Analysis
-1. Examined the distribution of the data on total energy consumption and total renewable energy generation through Boxplot and Violin Plot
-2. Examined the growth and trends in the data Line graph, Parallel coordinates plot, and Radar plot
-3. Mapping the outline of the data for the base year (2001) and the final year (2022)
+1. Examined the distribution of the data through Boxplot and Violin Plot
+2. Examined the patterns, growth, and trends of the data through Line graph, Parallel coordinates plot, and Radar plot
+3. Created Choropleth map indicating the outline of the data for the base year (2001) and the final year (2022)
 
 ## Data Analysis
 1. Used Correlogram and correlation matrix as our main graph to prove the hypothesis that renewable energy generation does have an impact on the total energy consumption in the selected states.
