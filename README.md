@@ -42,7 +42,7 @@ Core programming language: Python
 
 Development environment: Jupyter Notebook
 
-Libraries & packages: pandas, geopandas, pygeos, arcgis, shapely, folium, mapclassify, matplotlib
+Libraries & packages: pandas, geopandas, pygeos, arcgis, arcpy, geocoder, shapely, folium, mapclassify, matplotlib, plotly, OSMNX
 
 ## Data Wrangling 
 1. Collected the dataset as csv file with no geographic coordinates information
