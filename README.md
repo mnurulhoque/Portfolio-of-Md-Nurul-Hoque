@@ -32,3 +32,27 @@ The conclusions drawn from the visualizations in this project highlight a notice
 # Policy Implications 
 Governments and policymakers can use these insights to strengthen policies promoting renewable energy adoption. They can incentivize and invest in renewable energy projects, offer subsidies for clean energy technologies, and establish renewable energy targets to reduce reliance on coal and other fossil fuels. 
 
+# [Project 2: A Spatial Analysis of the Licensed Childcare Centers in New Jersey, USA](https://mnurulhoque.github.io/NJ-Childcare-Centers/)
+
+# Project Overview 
+This project was conducted as the final project required by the 'Seminar in Public Informatcs (Command Line Geographic Information System' course at E.J. Bloustein School of Planning and Public Policy, Rutgers University. This project aims to analyze the Licensed Childcare Centers in New Jersey, USA through Spatial Analysis tools. 
+
+# Resources & Tools Used
+Core programming language: Python
+
+Development environment: Jupyter Notebook
+
+Libraries & packages: pandas, geopandas, pygeos, arcgis, shapely, folium, mapclassify, matplotlib
+
+# Data Wrangling 
+1. Collected the dataset as csv file with no geographic coordinates information
+2. Converted the address and ZIP codes into geographic coordinates through geocoding
+3. Used Spatial Joins, and Geoprocessing tools like Buffer, Clip, Union Overlay Operation, Unary Union etc. to make the data appropriate to generate the desired maps
+4. Encountered a bug in the heatmap of the interactive map and solved that issue by adjusting the heatmap layer style in the HTML codes
+
+# Data Analysis
+1. Created 3 static maps
+2. Created one interactive web map
+<iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
+
+You can also explore [this map as its own web page here](nj_childcare_centers.html)
