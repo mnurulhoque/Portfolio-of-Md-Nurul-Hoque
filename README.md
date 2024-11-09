@@ -78,10 +78,20 @@ Libraries & packages: pandas, geopandas, pygeos, arcgis, arcpy, geocoder, shapel
 4. Encountered a bug in the heatmap of the interactive map and solved that issue by adjusting the heatmap layer style in the HTML codes
 
 ## Data Analysis
-1. Created 3 static maps. one is given here as an example. 
+## STATIC MAPS
+
+## NJ Licensed Childcare Centers by County  
+![static map1](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/340ebad6-df60-482f-8eeb-452bb042a8c5)
+
+## NJ Licensed Childcare Centers per 100k Residents  
+![static map2](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/6377a934-d0f5-4924-a1f4-ee463456fd94)
+
+## NJ Licensed Childcare Centers: Five Mile Transit Accessibility by County  
 ![static map3](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/736c4625-79fb-4c1d-90c3-3945de4dd8ed)
-2. Created one interactive web map.
-You can explore [this interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
+
+## INTERACTIVE MAP  
+
+You can explore [the interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
 
 ## Policy Implications
 This spatial analysis of licensed childcare centers in New Jersey, USA offers critical insights that have significant policy implications for urban planning, public transportation, and childcare services. The distribution of childcare centers relative to population density, their accessibility via public transit, and the proximity to residential areas provide a foundation for informed decision-making in in the mentioned policy areas. By leveraging such insights, policymakers can devise strategies that not only address the immediate needs of families for childcare but also contribute to the long-term welfare and development of communities across New Jersey.
