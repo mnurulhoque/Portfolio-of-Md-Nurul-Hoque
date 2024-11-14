@@ -133,7 +133,7 @@ In the initial data preparation phase, the following tasks were performed:
 6. Removing punctuation, special characters, and numbers
 
 ## Exploratory Data Analysis 
-![Word Cloud](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Word%20Cloud.png)
+![Word Cloud](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Word%20Cloud.png)
 
 ## Sentiment Analysis
 
