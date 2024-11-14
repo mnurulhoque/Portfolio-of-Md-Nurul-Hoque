@@ -91,6 +91,7 @@ Libraries & packages: pandas, geopandas, pygeos, arcgis, arcpy, geocoder, shapel
 
 ## INTERACTIVE MAP  
 <iframe src='nj_childcare_centers.html' width = '1000' height = '700' ></iframe>
+
 You can explore [the interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
 
 ## Policy Implications
