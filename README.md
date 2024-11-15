@@ -117,7 +117,7 @@ Development environment: Google Colab Notebook
 Libraries & packages: pandas, numpy, matplotlib, seaborn, sklearn, lmfit, statsmodels, tabulate, textblob, nltk, spacy, string, wordcloud, LinearRegression
 
 ## Workflow of the Project
-![Workflow of the Project](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Workflow.png)
+![Workflow of the Project](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Workflow.png)
 
 ## Data loading and exploration
 In the initial data preparation phase, the following tasks were performed:
@@ -137,7 +137,7 @@ In the initial data preparation phase, the following tasks were performed:
 
 ## Sentiment Analysis
 
-![Line graph-Sentiment distribution over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Line%20graph-Sentiment%20distribution%20over%20time.png)
+![Line graph-Sentiment distribution over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Line%20graph-Sentiment%20distribution%20over%20time.png)
 
 The neutral sentiment shows the strongest upward trend over time, as indicated by the highest slope of 0.41
 
@@ -145,19 +145,19 @@ The positive sentiment also shows an increase but at a more moderate rate, with 
 
 The negative sentiment shows the weakest upward trend, with the lowest slope of 0.09
 
-![Sentiment-regression line](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Sentiment-regression%20line.png)
+![Sentiment-regression line](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Sentiment-regression%20line.png)
 
 The trend line has a positive slope (m=0.10), which indicates that the count of negative sentiments is gradually increasing over time.
 
-![Stacked bar-cumulative sentiment over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Stacked%20bar-cumulative%20sentiment%20over%20time.png)
+![Stacked bar-cumulative sentiment over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Stacked%20bar-cumulative%20sentiment%20over%20time.png)
 
 While the absolute counts of sentiments increase, the proportions of each sentiment type remain fairly consistent over time, with neutral sentiments consistently being the most common, followed by positive and then negative sentiments.
 
-![Stacked bar-proportion of sentiment distribution over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Stacked%20bar-proportion%20of%20sentiment%20distribution%20over%20time.png)
+![Stacked bar-proportion of sentiment distribution over time](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Stacked%20bar-proportion%20of%20sentiment%20distribution%20over%20time.png)
 
 The overall pattern of sentiment distribution appears relatively stable across the time frame shown, with little variation in the proportions of each sentiment category.
 
-![Sentiment Analysis-Pie Charts](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/Sentiment%20Analysis-Pie%20Charts.png)
+![Sentiment Analysis-Pie Charts](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/Sentiment%20Analysis-Pie%20Charts.png)
 
 The accuracy was relatively low comparing to pre-built models, one of the reason could be the training and testing data were not concerning similar topics. Also could because of the testing data are too simple in terms of length.
 
@@ -165,5 +165,5 @@ The accuracy was relatively low comparing to pre-built models, one of the reason
 It appears that the news media is not predominantly spreading fear of AI, at least not in the dataset we've analyzed. However, it's essential to consider the limitations of the dataset and the possibility that fear-based narratives may exist in other contexts or datasets not included in our analysis.
 
 ## Project Notebook 
-[Notebooks](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/blob/main/RAISE_2024_Data_Dynamos_Final.ipynb)
+[Notebooks](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/RAISE_2024_Data_Dynamos_Final.ipynb)
 
