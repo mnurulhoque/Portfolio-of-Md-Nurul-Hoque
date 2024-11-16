@@ -172,7 +172,7 @@ It appears that the news media is not predominantly spreading fear of AI, at lea
 ## Project Notebook 
 [Notebooks](https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP/raw/main/RAISE_2024_Data_Dynamos_Final.ipynb)
 
-# [Project 4: Microsoft PowerBI Dashboard(https://github.com/mnurulhoque/PowerBI-Dashboard/blob/main/README.md) 
+# [Project 4: Microsoft PowerBI Dashboard](https://github.com/mnurulhoque/PowerBI-Dashboard/blob/main/README.md) 
 
 ## Project Overview
 The objectives of this Dashboard is to present the daily picture of a Customer Service Company. The project is based on work I completed in one of my previous jobs, but the data and details have been altered. It does not represent the actual work or insights of the organization.
