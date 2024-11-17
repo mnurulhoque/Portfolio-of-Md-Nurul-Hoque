@@ -201,7 +201,7 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 
 ## NJProject Customer Service Dashboard (Interactive)
 
-[NJProject Customer Service Dashboard](NJProject_dashboard.html)
+<iframe src='NJProject_dashboard.html' width = '1000' height = '1000' ></iframe>
 
 Check out this interactive dashboard in PowerBI Website:  
 [NJProject Customer Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNkNmExMWItNjM3My00ZTlmLTk2OGQtNjYwMWMyOTM5MTZmIiwidCI6ImI5MmQyYjIzLTRkMzUtNDQ3MC05M2ZmLTY5YWNhNjYzMmZmZSIsImMiOjF9)
