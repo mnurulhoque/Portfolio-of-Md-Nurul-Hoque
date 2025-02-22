@@ -40,7 +40,7 @@ To understand the structure of the dataset, the following actions were performed
 **Missing Values:** A significant number of missing values were detected in several columns, such as condition, cylinders, drive, and size.
 A missing values heatmap was generated to visually identify columns with high percentages of missing data.
 
-![Missing values before cleaning](https://github.com/mnurulhoque/Prediction-of-Used-Car-Prices-Leveraging-Data-and-Machine-Learning/assets/df5cbe98-2e14-4cf7-94bc-0eb3cb1b4e47)
+![Missing values before cleaning](https://github.com/mnurulhoque/Prediction-of-Used-Car-Prices-Leveraging-Data-and-Machine-Learning/releases/download/v1.0/Missing.values.before.cleaning.png)
 
 ## DATA PREPROCESSING
 
